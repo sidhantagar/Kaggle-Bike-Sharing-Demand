@@ -10,7 +10,8 @@ This repository contains two versions with two different approaches.
     
     PS:There is an interactive and dynamic chart after line 10(not visible in the viewer on git.)
     
-    Please download and run the same on your jupyter notebook to view (Completely interactive). 
+    Please download and run the same on your jupyter notebook to view (Completely interactive).
+    Alternatively one can also visit "https://www.kaggle.com/sidagar/bike-sharing-demand".
     
     Although a screenshot of the same has been added in png for reference (Non interactive).
 
