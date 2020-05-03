@@ -8,11 +8,11 @@ This repository contains two versions with two different approaches.
   2.In the second one I replaced the decision tree with the Random forest.(Score obtained is 0.515)
     Along with that completely new and highly interactive charts and graphs have been added to this file.
     
-    PS:There are interactive and dynamic charts after line 10 and after line 40(not visible in the viewer on git.)
+    PS:There are interactive and dynamic plotly charts after lines 10 , 17 and 40(not visible in the viewer on git.)
     
     Please download and run the same on your jupyter notebook to view (Completely interactive).
     Alternatively one can also visit "https://www.kaggle.com/sidagar/bike-sharing-demand".
     
-    Although a screenshot of the same has been added in png for reference (Non interactive).
+    Although a screenshot of the first chart has been added in png for reference (Non interactive).
 
 My Kaggle username is "sidagar" without quotes.
